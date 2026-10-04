@@ -1,0 +1,6 @@
+pandas
+mlxtend
+matplotlib
+seaborn
+openpyxl
+pyarrow

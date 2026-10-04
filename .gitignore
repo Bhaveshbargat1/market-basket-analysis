@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Compiled Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Data Files & Intermediate Outputs
+data/processed/
+*.parquet
+*.csv
+*.xlsx
+
+# Generated Reports & Web Exports
+*.pdf
+report.html
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System Files
+.DS_Store
+Thumbs.db
